@@ -1,4 +1,4 @@
-### Hello world! 👋 I'm Giovanni. 
+### Hello world!👋 
 
 <!--
 **josecar2505/josecar2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
